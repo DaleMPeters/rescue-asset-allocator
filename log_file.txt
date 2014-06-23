@@ -1,0 +1,98 @@
+Shipping report creation time: 13/11/2011 at 12:58:00
+Mayday call time: 13/11/2011 at 12:56:00
+
+Ship in peril:
+=============
+AIS ID: Dale45 at latitude -37.814000, longitude 144.963000
+
+No rescue assets allocated - the ship that made the Mayday call is not estimated to be between Carnsore Point and Braich-y-Pwll
+Shipping report creation time: 14/11/2011 at 17:00:00
+Mayday call time: 14/11/2011 at 18:00:00
+
+Ship in peril:
+=============
+AIS ID: Tanker01 at latitude 51.683000, longitude -6.000000
+
+No rescue assets allocated - the ship that made the Mayday call is not estimated to be between Carnsore Point and Braich-y-Pwll
+Shipping report creation time: 13/11/2011 at 13:04:00
+Mayday call time: 13/11/2011 at 13:10:00
+
+Ship in peril:
+=============
+AIS ID: GS452 at latitude 51.750000, longitude -4.300000
+
+Rescue assets allocated
+=======================
+Helicopter with callsign Rescue_169 from Chivenor_airport
+Lifeboat with callsign Cardigan_Lifeboat from Cardigan
+Shipping report creation time: 15/11/2011 at 10:00:00
+Mayday call time: 15/11/2011 at 10:10:00
+
+The ship that made the Mayday call does not exist in the ship report so no rescue assets were allocated.
+Shipping report creation time: 17/11/2011 at 10:00:00
+Mayday call time: 17/11/2011 at 10:18:00
+
+Ship in peril:
+=============
+AIS ID: Yacht04 at latitude 52.425000, longitude -4.192000
+
+Rescue assets allocated
+=======================
+Helicopter with callsign Rescue_122 from Valley_airport
+Lifeboat with callsign Aberystwyth_Lifeboat from Aberystwyth
+Shipping report creation time: 18/11/2011 at 23:00:00
+Mayday call time: 19/11/2011 at 00:39:38
+
+Ship in peril:
+=============
+AIS ID: Manx01 at latitude 51.717000, longitude -5.833000
+
+Rescue assets allocated
+=======================
+Helicopter with callsign Rescue_117 from Waterford_airport
+Lifeboat with callsign Arklow_Lifeboat from Arlow
+Shipping report creation time: 13/11/2011 at 13:04:00
+Mayday call time: 13/11/2011 at 13:10:00
+
+Ship in peril:
+=============
+AIS ID: GS452 at latitude 51.750000, longitude -4.300000
+
+Rescue assets allocated
+=======================
+Helicopter with callsign Rescue_169 from Chivenor_airport
+Lifeboat with callsign Cardigan_Lifeboat from Cardigan
+Shipping report creation time: 14/11/2011 at 17:00:00
+Mayday call time: 14/11/2011 at 18:00:00
+
+Ship in peril:
+=============
+AIS ID: Tanker01 at latitude 51.683000, longitude -6.000000
+
+No rescue assets allocated - the ship that made the Mayday call is not estimated to be between Carnsore Point and Braich-y-Pwll
+Shipping report creation time: 15/11/2011 at 10:00:00
+Mayday call time: 15/11/2011 at 10:10:00
+
+The ship that made the Mayday call does not exist in the ship report so no rescue assets were allocated.
+Shipping report creation time: 17/11/2011 at 10:00:00
+Mayday call time: 17/11/2011 at 10:18:00
+
+Ship in peril:
+=============
+AIS ID: Yacht04 at latitude 52.425000, longitude -4.192000
+
+Rescue assets allocated
+=======================
+Helicopter with callsign Rescue_122 from Valley_airport
+Lifeboat with callsign Aberystwyth_Lifeboat from Aberystwyth
+Shipping report creation time: 18/11/2011 at 23:00:00
+Mayday call time: 19/11/2011 at 00:39:38
+
+Ship in peril:
+=============
+AIS ID: Manx01 at latitude 51.717000, longitude -5.833000
+
+Rescue assets allocated
+=======================
+Helicopter with callsign Rescue_122 from Valley_airport
+Lifeboat with callsign St._David's_ILB from St._David's
